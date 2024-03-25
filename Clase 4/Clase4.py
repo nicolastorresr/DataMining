@@ -264,7 +264,7 @@ def highlight_lines(highlighted_countries=[1, 5, 10, 15, 20]):
 
 def proportions(n=20):
     # Generate random data with at least 20 categories
-    categories = [f'Category {i}' for i in range(1, n-1)]
+    categories = [f'Category {i}' for i in range(1, n+1)]
     data = np.random.randint(1, 30, size=len(categories))
 
     # Create a figure with subplots (1 row, 2 columns)
