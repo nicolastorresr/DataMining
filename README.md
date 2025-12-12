@@ -1,4 +1,4 @@
-<h1>TEL354 - Minería de datos</h1>
+<h1>Procesamiento Digital de Imágenes</h1>
 
 Prof. Nicolás Torres <br>
 nicolas.torresr@usm.cl <br>
